@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { StyleSheet, View, FlatList, Button } from "react-native";
+import { StyleSheet, View, FlatList, Button, SafeAreaView } from "react-native";
 import GoalItem from "./components/GoalItem";
 import GoalForm from "./components/GoalForm";
 

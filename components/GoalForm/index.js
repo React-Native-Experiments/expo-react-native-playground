@@ -44,7 +44,8 @@ const styles = StyleSheet.create({
     borderBottomWidth: 1,
     width: "80%",
     borderBottomColor: "black",
-    marginBottom: 10
+    marginBottom: 10,
+    color: "#000"
   },
   buttons: {
     flexDirection: "row",
